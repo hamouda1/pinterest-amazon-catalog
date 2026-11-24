@@ -1,0 +1,282 @@
+{
+  "updated_at": "2026-11-24T21:01:58Z",
+  "pages_per_board": 5,
+  "accounts": {
+    "montessorinest_": {
+      "total_products": 487,
+      "file": "catalogs/montessorinest_.json",
+      "size_kb": 341.4,
+      "boards": {
+        "Baby Bedtime & Sleep Essentials": {
+          "board_id": "1091630465869892622",
+          "products": 100
+        },
+        "Baby Registry Must-Haves 2026": {
+          "board_id": "1091630465869892619",
+          "products": 95
+        },
+        "Neutral Baby Nursery Inspo & Decor": {
+          "board_id": "1091630465869892617",
+          "products": 98
+        },
+        "Toddler Sensory Bins & Learning": {
+          "board_id": "1091630465869892620",
+          "products": 99
+        },
+        "Wooden Montessori Toys & Playroom": {
+          "board_id": "1091630465869892618",
+          "products": 95
+        }
+      }
+    },
+    "anisds1995": {
+      "total_products": 898,
+      "file": "catalogs/anisds1995.json",
+      "size_kb": 629.8,
+      "boards": {
+        "Acacia Charcuterie Boards & Serving": {
+          "board_id": "1106196795914727295",
+          "products": 100
+        },
+        "Aesthetic Bedroom Inspo & Chunky Throws": {
+          "board_id": "1106196795914700328",
+          "products": 100
+        },
+        "Aesthetic Candles & Scented Home Accents": {
+          "board_id": "1106196795914700331",
+          "products": 100
+        },
+        "Amber Glass Soap Dispensers & Bottles": {
+          "board_id": "1106196795914727296",
+          "products": 100
+        },
+        "Cozy Coffee Bar & Kitchen Aesthetic": {
+          "board_id": "1106196795914700330",
+          "products": 100
+        },
+        "Cozy Living Room & Warm Lighting Ideas": {
+          "board_id": "1106196795914700326",
+          "products": 99
+        },
+        "Holiday Dining & Table Setting Ideas": {
+          "board_id": "1106196795914700329",
+          "products": 100
+        },
+        "Velvet Holiday Ribbons & Tree Decor": {
+          "board_id": "1106196795914727294",
+          "products": 100
+        },
+        "Whimsical Christmas & Holiday Home Decor": {
+          "board_id": "1106196795914700327",
+          "products": 99
+        }
+      }
+    },
+    "habiboumez": {
+      "total_products": 996,
+      "file": "catalogs/habiboumez.json",
+      "size_kb": 586.3,
+      "boards": {
+        "Chunky Cable Knit Cardigans & Knits": {
+          "board_id": "1093037840753549578",
+          "products": 100
+        },
+        "Cozy Hoodies & Streetwear Outfits": {
+          "board_id": "1093037840753522206",
+          "products": 100
+        },
+        "Cute Pet Lover Shirts & Gifts": {
+          "board_id": "1093037840753522208",
+          "products": 99
+        },
+        "Fleece Lined Tights & Winter Layers": {
+          "board_id": "1093037840753549577",
+          "products": 100
+        },
+        "Holiday Season Graphic Sweaters & Gifts": {
+          "board_id": "1093037840753522212",
+          "products": 99
+        },
+        "Matching Holiday Pajamas & Lounge": {
+          "board_id": "1093037840753549576",
+          "products": 100
+        },
+        "Ribbed Knit Beanies & Winter Hats": {
+          "board_id": "1093037840753549579",
+          "products": 99
+        },
+        "Trending Graphic Tees & Aesthetic Shirts": {
+          "board_id": "1093037840753522205",
+          "products": 100
+        },
+        "Vintage Retro Tees & 90s Aesthetic Fits": {
+          "board_id": "1093037840753522211",
+          "products": 99
+        },
+        "Viral Amazon Fashion & Aesthetic Finds": {
+          "board_id": "1093037840753522209",
+          "products": 100
+        }
+      }
+    },
+    "ThePantryHaven": {
+      "total_products": 600,
+      "file": "catalogs/ThePantryHaven.json",
+      "size_kb": 424.3,
+      "boards": {
+        "Aesthetic Pantry & Spice Jar Labels": {
+          "board_id": "258112691083171863",
+          "products": 100
+        },
+        "Botanical Kitchen & Herb Wall Art": {
+          "board_id": "258112691083172028",
+          "products": 100
+        },
+        "Cozy Farmhouse Kitchen Decor & Towels": {
+          "board_id": "258112691083171865",
+          "products": 100
+        },
+        "Family Recipe Binders & Cookbooks": {
+          "board_id": "258112691083172026",
+          "products": 100
+        },
+        "Personalized Kitchen & Cutting Boards": {
+          "board_id": "258112691083171864",
+          "products": 100
+        },
+        "Weekly Meal Planners & Grocery Lists": {
+          "board_id": "258112691083172027",
+          "products": 100
+        }
+      }
+    },
+    "marrytreasures": {
+      "total_products": 2241,
+      "file": "catalogs/marrytreasures.json",
+      "size_kb": 1146.4,
+      "boards": {
+        "Alien Area 51 Graphic Tees & UFO Aesthetic Shirts": {
+          "board_id": "677440037637741879",
+          "products": 100
+        },
+        "Artist Graphic Tees & Creative Art Lover Gifts": {
+          "board_id": "677440037637593903",
+          "products": 100
+        },
+        "Autism Awareness Shirts & Neurodiversity Gifts": {
+          "board_id": "677440037639121110",
+          "products": 100
+        },
+        "Bridal Shower & Bachelorette Cards": {
+          "board_id": "677440037639189659",
+          "products": 100
+        },
+        "Cozy Fall & Thanksgiving Aesthetic Finds": {
+          "board_id": "677440037639174208",
+          "products": 99
+        },
+        "Cute Fruit Graphic Hoodies & Aesthetic Sweaters": {
+          "board_id": "677440037639166201",
+          "products": 100
+        },
+        "Funny Animal Graphic Shirts & Wildlife Art Apparel": {
+          "board_id": "677440037639167867",
+          "products": 100
+        },
+        "Funny Cat Lover Gifts & Novelty Graphic Shirts": {
+          "board_id": "677440037639070445",
+          "products": 98
+        },
+        "Funny Pet Lover Tees & Dog Cat Humor Gifts": {
+          "board_id": "677440037639078924",
+          "products": 89
+        },
+        "Funny Sarcastic Shirts & Humorous Novelty Gifts": {
+          "board_id": "677440037639094964",
+          "products": 100
+        },
+        "Game Day Football Shirts & Tailgate Graphic Tees": {
+          "board_id": "677440037639171211",
+          "products": 99
+        },
+        "Goblincore Aesthetic Outfits & Cottagecore Finds": {
+          "board_id": "677440037639128972",
+          "products": 100
+        },
+        "Golden Sunshine Graphic Tees & Positive Vibe Fits": {
+          "board_id": "677440037638812100",
+          "products": 75
+        },
+        "Kindness Graphic Tees & Be Kind Aesthetic Shirts": {
+          "board_id": "677440037638812209",
+          "products": 100
+        },
+        "Luxury Wedding Invitations 5x7": {
+          "board_id": "677440037639190666",
+          "products": 100
+        },
+        "Mother's Day Gift Ideas & Best Mom Life Shirts": {
+          "board_id": "677440037639127728",
+          "products": 100
+        },
+        "Romantic Couple Shirts & Valentine Gift Ideas": {
+          "board_id": "677440037638813656",
+          "products": 98
+        },
+        "Senior Sunrise Shirts & High School Keepsake Gifts": {
+          "board_id": "677440037639166255",
+          "products": 100
+        },
+        "Thanksgiving Turkey Shirts & Autumn Feast Tees": {
+          "board_id": "677440037639168259",
+          "products": 100
+        },
+        "Trending Graphic Tees & Streetwear Fits": {
+          "board_id": "677440037639070616",
+          "products": 100
+        },
+        "Vintage Car Shirts & Classic Car Enthusiast Gifts": {
+          "board_id": "677440037639166340",
+          "products": 100
+        },
+        "Walking Club Graphic Tees & Daily Fitness Gifts": {
+          "board_id": "677440037639068349",
+          "products": 83
+        },
+        "Wedding Welcome Signs & Decor": {
+          "board_id": "677440037639189658",
+          "products": 100
+        }
+      }
+    },
+    "koreanskincare_finds": {
+      "total_products": 467,
+      "file": "catalogs/koreanskincare_finds.json",
+      "size_kb": 330.2,
+      "boards": {
+        "Glass Skin Routines": {
+          "board_id": "246642585782160372",
+          "products": 100
+        },
+        "Korean Skincare Holy Grails": {
+          "board_id": "246642585782160373",
+          "products": 93
+        },
+        "Barrier Repair & Hydration": {
+          "board_id": "246642585782160374",
+          "products": 96
+        },
+        "K-Beauty Serums & Ampoules": {
+          "board_id": "246642585782160375",
+          "products": 92
+        },
+        "Korean Sunscreens & Toners": {
+          "board_id": "246642585782160376",
+          "products": 86
+        }
+      }
+    }
+  },
+  "total_unique_products": 5663,
+  "total_api_requests": 289
+}
